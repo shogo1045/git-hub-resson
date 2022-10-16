@@ -1,7 +1,3 @@
-# git-hub-resson
-＃見出し
-#見出し２
-#見出し３
--リスト
--リスト２
--リスト３
+#github resson
+
+![reading]
