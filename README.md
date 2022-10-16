@@ -1,3 +1,5 @@
-#github resson
+# github resson
 
-![reading]
+- リスト
+- リスト２
+1. 数字
